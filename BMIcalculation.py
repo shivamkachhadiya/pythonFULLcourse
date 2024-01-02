@@ -1,0 +1,5 @@
+weight=input("enter weight :")
+height=input("enter height :")
+heightsqu=float(height)*float(height)
+result=int(weight)/float(heightsqu)
+print(result)
