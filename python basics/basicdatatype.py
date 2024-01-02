@@ -1,0 +1,6 @@
+print("shivam"[0])
+print("hello"[3])
+print("rajkot"[-1])
+print("chennai"[3])
+print("123"+"345")
+print(5+5)
